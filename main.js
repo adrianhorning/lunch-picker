@@ -19,8 +19,8 @@ class LunchPicker {
     }
     
     createWheel() {
-        const numOfSpins = Math.floor(Math.random() * (10 - 5 + 1)) + 5;
-        const duration = Math.floor(Math.random() * (6 - 3 + 1)) + 3;
+        const numOfSpins = Math.floor(Math.random() * (12 - 3 + 1)) + 3;
+        const duration = Math.floor(Math.random() * (8 - 2 + 1)) + 2;
         const shuffledRestaurants = this.shuffle(this.restaurants);
         console.log(numOfSpins);
         console.log(duration);
