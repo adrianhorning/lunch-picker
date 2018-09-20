@@ -12,6 +12,8 @@ class LunchPicker {
             { 'fillStyle': '#4227ff', 'text': 'Zao' },
             { 'fillStyle': '#53ac37', 'text': '180 Tacos' },
             { 'fillStyle': '#de2f1b', 'text': 'Habit' },
+            { 'fillStyle': '#ee2f1b', 'text': 'Sweeto Burrito' },
+            { 'fillStyle': '#de2f6b', 'text': 'Even Steven' },
         ];
         this.theWheel = this.createWheel();
         this.wheelPower = 0;
@@ -27,7 +29,7 @@ class LunchPicker {
         return new Winwheel({
             'numSegments':  shuffledRestaurants.length,     // Specify number of segments.
             'outerRadius':  212,   // Set outer radius so wheel fits inside the background.
-            'textFontSize': 28,    // Set font size as desired.
+            'textFontSize': 25,    // Set font size as desired.
             'segments':     shuffledRestaurants,
             'animation':           // Specify the animation to use.
             {
