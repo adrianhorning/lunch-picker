@@ -19,6 +19,7 @@ class LunchPicker {
             { 'fillStyle': '#ee2f6e', 'text': 'Jimmy Johns' },
             { 'fillStyle': '#ce2f6w', 'text': 'Kneaders' },
             { 'fillStyle': '#6e2f6w', 'text': 'Thai Village' },
+            { 'fillStyle': '#5e3f6w', 'text': 'Mooyah' },
         ];
         this.theWheel = this.createWheel();
         this.wheelPower = 0;
