@@ -6,7 +6,6 @@ class LunchPicker {
             { 'fillStyle': '#7de6ef', 'text': '2 Jacks' },
             { 'fillStyle': '#e7706f', 'text': 'Wingers' },
             { 'fillStyle': '#eae56f', 'text': 'Wendys' },
-            { 'fillStyle': '#89f26e', 'text': 'El Mexsal' },
             { 'fillStyle': '#7de6ef', 'text': 'Red Robin' },
             { 'fillStyle': '#88f9f1', 'text': 'Cafe Rio' },
             { 'fillStyle': '#4227ff', 'text': 'Zao' },
@@ -20,7 +19,8 @@ class LunchPicker {
             { 'fillStyle': '#ce2f6w', 'text': 'Kneaders' },
             { 'fillStyle': '#6e2f6w', 'text': 'Thai Village' },
             { 'fillStyle': '#5e3f6w', 'text': 'Mooyah' },
-            { 'fillStyle': '#5e3f6w', 'text': 'Station 22' }
+            { 'fillStyle': '#5e3f6w', 'text': 'Station 22' },
+            { 'fillStyle': '#5e3f6w', 'text': 'Bumble Bees' }
         ];
         this.theWheel = this.createWheel();
         this.wheelPower = 0;
