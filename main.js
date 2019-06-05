@@ -13,7 +13,6 @@ class LunchPicker {
             { 'fillStyle': '#de2f1b', 'text': 'Habit' },
             { 'fillStyle': '#ee2f1b', 'text': 'Sweeto Burrito' },
             { 'fillStyle': '#de2f6b', 'text': 'Even Stevens' },
-            { 'fillStyle': '#7de6ef', 'text': 'Papusa Place' },
             { 'fillStyle': '#de1f6b', 'text': 'Del Taco' },
             { 'fillStyle': '#ee2f6e', 'text': 'Jimmy Johns' },
             { 'fillStyle': '#ce2f6w', 'text': 'Kneaders' },
