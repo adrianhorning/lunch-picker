@@ -11,14 +11,12 @@ class LunchPicker {
             { 'fillStyle': '#4227ff', 'text': 'Zao' },
             { 'fillStyle': '#53ac37', 'text': '180 Tacos' },
             { 'fillStyle': '#de2f1b', 'text': 'Habit' },
-            { 'fillStyle': '#ee2f1b', 'text': 'Sweeto Burrito' },
-            { 'fillStyle': '#de2f6b', 'text': 'Even Stevens' },
-            { 'fillStyle': '#de1f6b', 'text': 'Del Taco' },
             { 'fillStyle': '#ee2f6e', 'text': 'Jimmy Johns' },
             { 'fillStyle': '#ce2f6w', 'text': 'Kneaders' },
             { 'fillStyle': '#6e2f6w', 'text': 'Thai Village' },
             { 'fillStyle': '#5e3f6w', 'text': 'Mooyah' },
             { 'fillStyle': '#5e3f6w', 'text': 'Station 22' },
+            { 'fillStyle': '#5e3f6w', 'text': 'Chom Burger' },
             { 'fillStyle': '#5e3f6w', 'text': 'Bumble Bees' },
             { 'fillStyle': '#5e3f6w', 'text': 'Mo Bettahs' }
         ];
